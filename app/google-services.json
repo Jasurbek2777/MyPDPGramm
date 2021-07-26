@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "740983704060",
+    "project_id": "my-pdp-gramm",
+    "storage_bucket": "my-pdp-gramm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740983704060:android:067334e9dd711e3c9dca79",
+        "android_client_info": {
+          "package_name": "com.example.mypdpgramm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740983704060-dsrahstg97cd8fae76gt6m9jr1b0al0e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mypdpgramm",
+            "certificate_hash": "5d2cc601045924fbd531a6a41daac1c1bd3330dd"
+          }
+        },
+        {
+          "client_id": "740983704060-t95f94c2ars8vln7t2uqc05mff73iklf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbr23l2arJE5OqYABxF1D-UHcTaoLgk-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740983704060-t95f94c2ars8vln7t2uqc05mff73iklf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
